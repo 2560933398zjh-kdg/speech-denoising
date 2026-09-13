@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 模型权重（体积大，不提交 GitHub，可自行训练获得）
+*.pth
+*.pt
+
+# 音频输出
+output/
+audio/
+
+# IDE
+.idea/
+.vscode/
+*.iml
